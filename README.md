@@ -15,4 +15,4 @@ Currently only the local Django "runserver" command is avaliable, i.e. to **run*
 2. execute the following command: `python manage.py runserver`
 3. Follow the next link -> `http://127.0.0.1:8000/api/posts/` or `http://127.0.0.1:8000/api/comments/`
 
-!(https://github.com/Pirognoe/Dev_Today/blob/master/comments.PNG)
+!(https://raw.githubusercontent.com/Pirognoe/Dev_Today/master/comments.PNG)
