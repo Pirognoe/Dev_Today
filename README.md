@@ -14,3 +14,5 @@ Currently only the local Django "runserver" command is avaliable, i.e. to **run*
 1. Navigate to `dev_today_pyro` folder;
 2. execute the following command: `python manage.py runserver`
 3. Follow the next link -> `http://127.0.0.1:8000/api/posts/` or `http://127.0.0.1:8000/api/comments/`
+
+!(https://github.com/Pirognoe/Dev_Today/blob/master/comments.PNG)
