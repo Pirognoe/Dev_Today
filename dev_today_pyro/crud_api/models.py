@@ -7,7 +7,7 @@ class Post(models.Model):
     title = models.CharField(max_length=255)
     link = models.URLField()
     creation_date = models.DateTimeField()
-    amount_of_upvotes = models.IntegerField()
+    amount_of_upvotes = models.IntegerField(default=0)
     author_name = models.CharField(max_length=255)
 
     def __str__(self):
